@@ -7,7 +7,7 @@ public class AulaXp {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Testando o GitHub atualizado");
+		System.out.println("Testando o GitHub atualizado no servidor.");
 	}
 
 }
